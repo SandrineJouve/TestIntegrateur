@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandrineJouve/TestIntegrateur.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandrineJouve/TestIntegrateur/issues"
+  },
+  "homepage": "https://github.com/SandrineJouve/TestIntegrateur#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
