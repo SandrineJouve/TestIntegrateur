@@ -1,7 +1,51 @@
+body {
+    /*background-color: #F5EFE3;*/
+    background-color: #F6F0E2;
+}
+
 ul {
     list-style: none;
 }
 
 h1 {
     text-align: center;
+}
+
+img {
+    position: relative;
+}
+
+#productDetails1 {
+    background-color: white;
+    text-align: center;
+    position: absolute;
+    top: 460px;
+    width: 540px;
+}
+
+b {
+    font-size: 40px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.flex-item {
+    padding: 50px;
+    /*width: 200px;*/
+}
+
+.prix {
+    font-size: 30px;
+    width: 100%;
+    height: 30px;
+    border-bottom: 1px solid black;
+    text-align: center
+}
+
+div.prix span {
+    font-size: 40px;
+    background-color: #F3F5F6;
+    padding: 0 10px;
 }
