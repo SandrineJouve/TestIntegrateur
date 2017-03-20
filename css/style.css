@@ -15,7 +15,7 @@ h1 {
     text-align: center;
     position: absolute;
      width: 540px;
-     box-shadow:  2px 2px 8px #555;
+     box-shadow:  3px 3px 12px #C9C4BB;
 }
 
 #productDetails1 {
@@ -23,11 +23,11 @@ h1 {
 }
 
 #productDetails2 {
-    top: 1010px;
+    top: 990px;
 }
 
 #productDetails3 {
-    top: 1647px;
+    top: 1637px;
 }
 
 b {
@@ -59,4 +59,13 @@ div.prix span {
 .form-group {
     padding-top: 30px;
     margin-bottom: 0;
+}
+
+.fa-stack {
+    color: #84C24A;
+    bottom: 1em;
+}
+
+.fa-star, .fa-star-o {
+    color: #F4B40D;
 }
